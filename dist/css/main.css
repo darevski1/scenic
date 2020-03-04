@@ -1,0 +1,28 @@
+.wraper {
+  width: 300px;
+  height: 500px;
+  background: #ededed;
+  border-radius: 5px;
+  border: 1px solid #fcba03;
+  padding: 10px; }
+
+.div-sc {
+  width: auto;
+  height: 50px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  background: #ffffff;
+  padding: 10px; }
+
+.wrap-button {
+  display: flex;
+  justify-content: space-between; }
+  .wrap-button .calc-btn {
+    margin-top: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center; }

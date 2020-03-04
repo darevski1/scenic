@@ -1,0 +1,15 @@
+{
+    "name": "scenic",
+    "version": "1.0.0",
+    "description": "Some web site",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scss": "node-sass --watch dist/scss -o dist/css"
+    },
+    "author": "darevski",
+    "license": "ISC",
+    "dependencies": {
+        "node-sass": "^4.13.1"
+    }
+}
